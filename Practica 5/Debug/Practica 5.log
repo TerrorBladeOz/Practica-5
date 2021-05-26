@@ -1,0 +1,10 @@
+﻿  Practica 5.cpp
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(366,12): warning C4101: i: неиспользованная локальная переменная
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(423,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(451,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(479,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(505,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(601,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(601,9): warning C4101: b: неиспользованная локальная переменная
+C:\Users\К117\source\repos\Practica 5\Practica 5.cpp(720,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Practica 5.vcxproj -> C:\Users\К117\source\repos\Practica 5\Debug\Practica 5.exe
